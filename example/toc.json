@@ -1,0 +1,10 @@
+{
+  "0": {
+    "name": "test_file1",
+    "desc": "description of file 1 defined in toc.json"
+  },
+  "1": {
+    "name": "test_file2",
+    "desc": "description of file 2 defined in toc.json"
+  }
+}
