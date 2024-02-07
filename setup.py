@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     py_modules=["latex2readme"],
     description="Convert LaTeX documents to README.md files",
-    url="https://github.com/leon-h-a/tex2readme",
+    url="https://github.com/leon-h-a/latex2readme",
     license="MIT",
     install_requires=[
         "natsort==8.4.0",
